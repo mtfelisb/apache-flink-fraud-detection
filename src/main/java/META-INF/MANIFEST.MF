@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: spendreport.FraudDetectionJob
+Class-Path: slf4j-api-1.7.15.jar flink-shaded-force-shading-14.0.jar log
+ 4j-core-2.17.1.jar log4j-api-2.17.1.jar jsr305-1.3.9.jar log4j-slf4j-im
+ pl-2.17.1.jar flink-walkthrough-common_2.11-1.14.4.jar
+
